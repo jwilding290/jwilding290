@@ -5,7 +5,7 @@ I have completed Bacholer Science(Mathematics) and Masters of Cyber Security, an
 
 ## Objective
 
-My journey in cyber security and mathemtics has led me to great interest into cryptography, and I am now eager to find a job in this feild.
+My journey in cyber security and mathematics has led me to great interest into cryptography, and I am now eager to find a job in this feild.
 
 ## Tools
 
