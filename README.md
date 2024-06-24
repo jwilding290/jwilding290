@@ -1,7 +1,7 @@
 # Hello, I am Jack Wilding
 <a href="https://linkedin.com/in/jack-wilding-8780b4114"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I have completed Bacholer Science(Mathematics) and Masters of Cyber Security, and have great interest in cryptography area in cyber sercuity.
+I have completed Masters of Cyber Security and  Bacholer Science(Mathematics), I have great interest in cryptography area in cyber sercuity.
 
 ## Objective
 
