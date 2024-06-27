@@ -17,5 +17,11 @@ My journey in cyber security and mathematics has led me to great interest into c
 
 ## Projects
 
+### Machine Learning
+
 - [Machine Learning University Project - Breast Cancer](https://github.com/jwilding290/Machine_Learing_Project_Breast_Cancer)
-- [Introduction to Programming Assignment - Java Game](https://github.com/jwilding290/Coding_Assignment_Game_Basic_Java/tree/main) 
+
+### JAVA Programming
+
+- [Introduction to Programming Assignment - Java Game](https://github.com/jwilding290/Coding_Assignment_Game_Basic_Java/tree/main)
+- [Introduction to Programming Assignment - Java Game Bonus](https://github.com/jwilding290/Coding_Assignment_Game_Bonus_Java)
